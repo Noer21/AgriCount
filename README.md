@@ -1,5 +1,6 @@
 # AgriCount - Petani
 Project : Freelancer Codepanda
+
 Client  : Tim Peserta Lomba Tanoto Foundation
 
 Adalah sebuah aplikasi yang berguna untuk pendataan panen dengan cara menge-print sebuah unique qr code sebagai informasi diri disetiap buahnya. QR Code di generate pada aplikasi dan diprint menggunkan Label Bluetooth printer Epson LW600p.
